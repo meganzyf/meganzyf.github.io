@@ -21,10 +21,10 @@ repository               : "meganzyf/meganzyf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0891.JPG"
+  avatar           : "profile.png"
   name             : "Yifan (Megan) Zhao"
   pronouns         : "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Astrophysics Ph.D student @UPenn"
   location         : "Philadelphia, PA, USA"
   employer         : #"University of Pennslyvania"
   uri              : # URL
