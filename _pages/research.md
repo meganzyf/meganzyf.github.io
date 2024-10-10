@@ -8,8 +8,8 @@ redirect_from:
 ---
 ## Undergrad Research Projects ##
 ### Honors Thesis: Convolutional Neural Network for Type Ia Supernova Distance Estimation ###
-advised by Prof. [Joshua Frieman](https://astrophysics.uchicago.edu/people/profile/joshua-a.-frieman/) & Prof. [Rick Kessler](https://astrophysics.uchicago.edu/people/profile/richard-kessler/)
-at UChicago\
+*advised by Prof. [Joshua Frieman](https://astrophysics.uchicago.edu/people/profile/joshua-a.-frieman/) & Prof. [Rick Kessler](https://astrophysics.uchicago.edu/people/profile/richard-kessler/)
+at UChicago*\
 My honors thesis project aimed to develop photometric data based Type Ia Supernova (SNe Ia) distance estimators by using Convolutional Neural Network (CNN). Our algorithm can predict SNe Ia distance and redshift from multi-band lightcurves. We applied our model to simulated LSST data, which are processed through a 2D Gaussian Process (GP) to create two-dimensional image representations of the lightcurves. We achieved satisfactory but limited accuracy when predicting both the distance and the redshift.\
 [243rd AAS Poster](https://aas242-aas.ipostersessions.com/?s=D6-B4-7F-A6-CE-DB-2E-6D-A8-C8-5C-A7-27-30-C2-E1)\
 [Honors Thesis Presentation](https://astrophysics.uchicago.edu/events/event/2309?past=y)
