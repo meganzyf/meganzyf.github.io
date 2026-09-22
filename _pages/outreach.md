@@ -7,6 +7,7 @@ redirect_from:
   - /outreach.html
 ---
 **@ Penn**
+- speaker at [Astro on Tap](https://astronomyontap.org/event/astronomy-on-tap-philadelphia-6/)
 - co-president, [Diversity in Physics (DIP)](https://sites.google.com/view/dip-penn/)
 - volunteer, Girls Exploring Tomorrow's Technology
 - volunteer, Science After Hours at the Franklin Institute
@@ -17,4 +18,3 @@ redirect_from:
 - board member, [Society of Women Engineers (SWE)](https://blueprint.uchicago.edu/organization/swe).
 
 
- 
